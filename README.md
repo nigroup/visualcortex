@@ -4,6 +4,8 @@ This repository contains the network of the PhD Thesis
 
 The network ``AdexpNetwork`` can be found in ``visualcortex.model.adexpmixed``.
 The parameters are explained in the ``AdexpNetwork``'s documentation.
+The model requires a working installation of [numba](http://numba.pydata.org/).
+And has been tested with version 0.22.1.
 A usage example is given in ``tests/testadexpmixed.py`` as a 
 unittest test case.
 The example (but not the network itself) requires [BRIAN](http://briansimulator.org/).
