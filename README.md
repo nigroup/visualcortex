@@ -2,6 +2,7 @@ This repository contains the network of the PhD Thesis
 "Correlations and Coding in Visual Cortex" by Robert Meyer.
 
 
+
 The network ``AdexpNetwork`` can be found in ``visualcortex.model.adexpmixed``.
 The parameters are explained in the ``AdexpNetwork``'s documentation.
 The model requires a working installation of [numba](http://numba.pydata.org/).
